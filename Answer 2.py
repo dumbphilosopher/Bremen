@@ -1,5 +1,4 @@
 import numpy as np
-from scipy.interpolate import CubicSpline
 import matplotlib.pyplot as plt
 
 def interface_shape(x, A=0.1, L=1.0, k=50.0):
